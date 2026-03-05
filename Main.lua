@@ -9,7 +9,7 @@
 
 -- !!! ЗАМЕНИ ЭТИ ДВЕ СТРОКИ !!!
 local KEY_URL     = "https://raw.githubusercontent.com/USERNAME/REPO/main/key.txt"
-local VALID_KEY   = "WTX-YOURKEY-HERE"
+local VALID_KEY   = "WTX-SWARE-2024"
 -- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 local Players_ks  = game:GetService("Players")
