@@ -4,11 +4,11 @@
 -- ================================================
 
 -- !!! ЗАМЕНИ ПОД СЕБЯ !!!
-local SCRIPT_URL = "https://raw.githubusercontent.com/USERNAME/REPO/main/WTX_main.lua"
-local KEY_URL    = "https://raw.githubusercontent.com/USERNAME/REPO/main/key.txt"
-local VALID_KEY  = "WTX-YOURKEY-HERE"
+local SCRIPT_URL = "https://raw.githubusercontent.com/diedlyfire/wtx/refs/heads/main/Main.lua"
+local KEY_URL    = "https://raw.githubusercontent.com/diedlyfire/wtx/refs/heads/main/key.txt"
+local VALID_KEY  = "666"
 local VERSION    = "v3.0"
-local DISCORD    = "discord.gg/yourserver"
+local DISCORD    = "discord.gg/cracked"
 -- !!!!!!!!!!!!!!!!!!!!!!
 
 local TweenSvc = game:GetService("TweenService")
